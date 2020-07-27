@@ -1,7 +1,3 @@
----
-layout: default
-title: "PS3 Solution"
----
 
 # Solution to Conjugate Inference Problem Set
 
